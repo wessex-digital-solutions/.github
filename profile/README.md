@@ -2,8 +2,6 @@
 
 🙋‍♀️ We are a small digital agency in Wiltshire, UK.
 
-🌈 We are the creator of the MyLocal Gifts shop local marketplace network (https://about.mylocal.gifts)
-
 ☎️ You can get in touch at www.wessexdigitalsolutions.co.uk
 
 <!--
